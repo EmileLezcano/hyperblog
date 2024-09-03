@@ -18,13 +18,13 @@ body{
 
 #cabecera #tagline
 {
-    margin: 0 0 0;
+    margin: 0 0 0 1cm;
     font-weight: normal;
     font-size: 0.8em;
 }
 #container
 {
-    width: 100%;
+    width: 70%;
     padding: 1em;
     text-align: left;
     border: 1px solid #DDD;
@@ -35,3 +35,16 @@ body{
 {
     font-size: 20px;
 }
+#post
+{
+    padding: 1cm;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5cm;
+}
+
